@@ -1,0 +1,12 @@
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+audiosynthesizer\list.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+audiosynthesizer\list.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+audiosynthesizer\list.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+audiosynthesizer\list.o: ../Core/Inc/FreeRTOSConfig.h
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+audiosynthesizer\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

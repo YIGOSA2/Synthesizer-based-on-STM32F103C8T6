@@ -1,0 +1,14 @@
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+audiosynthesizer\croutine.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+audiosynthesizer\croutine.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+audiosynthesizer\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+audiosynthesizer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

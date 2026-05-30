@@ -1,0 +1,15 @@
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+audiosynthesizer\queue.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+audiosynthesizer\queue.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\string.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+audiosynthesizer\queue.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+audiosynthesizer\queue.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+audiosynthesizer\queue.o: ../Core/Inc/FreeRTOSConfig.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+audiosynthesizer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

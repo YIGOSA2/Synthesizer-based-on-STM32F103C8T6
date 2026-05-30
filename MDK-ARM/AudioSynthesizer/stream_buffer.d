@@ -1,0 +1,14 @@
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+audiosynthesizer\stream_buffer.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+audiosynthesizer\stream_buffer.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\string.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+audiosynthesizer\stream_buffer.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+audiosynthesizer\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+audiosynthesizer\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

@@ -1,0 +1,16 @@
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+audiosynthesizer\tasks.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+audiosynthesizer\tasks.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\string.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+audiosynthesizer\tasks.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+audiosynthesizer\tasks.o: D:\keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+audiosynthesizer\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+audiosynthesizer\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
