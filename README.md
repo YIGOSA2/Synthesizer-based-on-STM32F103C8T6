@@ -1,6 +1,6 @@
 ﻿# STM32 Audio Synthesizer (STM32F103)
 
-基于 STM32F103 的嵌入式音频合成器项目，支持 PWM 音频输出、4 声部复音、MIDI 输入、Tremolo/Delay 效果、OLED 实时 UI，并采用 FreeRTOS 实现“中断硬实时 + 任务软实时”的分层架构。
+基于 STM32F103 的嵌入式音频合成器项目，支持 PWM 音频输出、4 声部复音、MIDI 输入、Tremolo/Delay 效果、OLED 实时 UI，并采用 FreeRTOS 实现“中断硬实时 + 任务软实时”的分层架构。<br>
 <img src="./整体.jpg" width="60%" alt="实物图">
 ## Features
 
