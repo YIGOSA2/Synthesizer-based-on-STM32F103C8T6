@@ -107,6 +107,11 @@ AudioSynthesizer/
 - 参数持久化（Flash 存储）
 - 输出升级为 DAC / I2S 方案
 
+## Contact
+
+欢迎提交ISSUES或者提PR<br>
+也可以邮箱联系yigosa@duck.com
+
 ## License
 
 本项目采用仓库内 [LICENSE](./LICENSE)。
