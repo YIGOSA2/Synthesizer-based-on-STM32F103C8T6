@@ -23,7 +23,7 @@
 - 音频: PWM 输出
 - MIDI: USART1 RX (PA10)
 - 按键: 本地音符键 + 效果键（Tremolo/Delay/波形切换）
-
+- PCB工程开源在立创开源广场： https://oshwhub.com/yigosa/project_gnrnwpfm
 ## Software Architecture
 
 - **ISR（硬实时）**
